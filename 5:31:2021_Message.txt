@@ -1,0 +1,26 @@
+Incoming Wall of Text
+
+Hey everyone, as I move into the more coding heavy side of development for the website, I just wanted to give you guys a heads up on where you can check progress and technical things if you need it. I'm using github as the main way to store files, which currently has a private repository (think of it as a folder) on the VMC account at 
+
+Github Info
+Username: MVVMC
+Password: vmcw3bs1t3
+
+Repo:
+https://github.com/MVVMC/official-website 
+
+I'm going to be using Netlify to host for the moment, so the url for the website is 
+
+Sign in using github with vmc account
+Hosting Dock: https://app.netlify.com/sites/sad-beaver-d8b0dd/overview
+
+https://sad-beaver-d8b0dd.netlify.app/  (This is subject to change, but for the moment its what I have for free.)
+
+That link will have what the code reflects, so it'll look very unfinished. I also might not update it often, as it is quite a hassle, but if any major changes happen I'll let you guys know. I'll also round up some costs for making things look proffesional, like a change in url and security liscenes. What I'm thinking is around $10 per year total, which again is subject to change based on where and how I finally decide to host. 
+
+Finally, the mock up that I sent earlier is what I will be basing the website design off, almost exactly the same in terms of looks. The only bit that I have left to do on that is the contact us, which should be done soon enough, but if there are any changes what so ever that you would like, don't hesitate to let me know. 
+
+Mock Up: https://www.figma.com/proto/gmYlGBoNE9CU9AoFYmxliU/VMC-Website?page-id=0%3A1&node-id=53%3A23&viewport=-134%2C539%2C0.07973243296146393&scaling=min-zoom
+
+We can always discuss more at our next meeting, but I wanted to give you guys an update on how things are moving along. Once again don't hesitate with feedback, I'll take all I can get :)
+
